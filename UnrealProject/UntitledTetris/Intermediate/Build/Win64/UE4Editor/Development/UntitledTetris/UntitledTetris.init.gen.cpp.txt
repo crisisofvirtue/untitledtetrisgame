@@ -1,0 +1,3 @@
+D:\GameDev\UntitledTetris\untitledtetrisgame\UnrealProject\UntitledTetris\Intermediate\Build\Win64\UE4Editor\Development\UntitledTetris\Definitions.UntitledTetris.h
+C:\Games\Epic\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Games\Epic\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

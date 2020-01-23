@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UntitledTetris",
+			"Path": "D:\\GameDev\\UntitledTetris\\untitledtetrisgame\\UnrealProject\\UntitledTetris\\Source\\UntitledTetris.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UntitledTetrisEditor",
+			"Path": "D:\\GameDev\\UntitledTetris\\untitledtetrisgame\\UnrealProject\\UntitledTetris\\Source\\UntitledTetrisEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

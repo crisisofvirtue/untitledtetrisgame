@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GameDev\\UntitledTetris\\untitledtetrisgame\\UnrealProject\\UntitledTetris\\Source\\UntitledTetris\\UntitledTetris.Build.cs",
+		"D:\\GameDev\\UntitledTetris\\untitledtetrisgame\\UnrealProject\\UntitledTetris\\Source\\UntitledTetris.Target.cs",
+		"D:\\GameDev\\UntitledTetris\\untitledtetrisgame\\UnrealProject\\UntitledTetris\\Source\\UntitledTetrisEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.1"
+}
