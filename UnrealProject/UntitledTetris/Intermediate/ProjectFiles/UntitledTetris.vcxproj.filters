@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UntitledTetris.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2F047EE1-3FD2-4468-8822-A6339B66380F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UntitledTetris.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UntitledTetrisEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D7CE0B78-E84F-4766-8ECD-A4945EAEC597}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UntitledTetris">
+      <UniqueIdentifier>{7822DA89-E988-4113-B877-4D3B929C9AF2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UntitledTetris\UntitledTetris.Build.cs">
+      <Filter>Source\UntitledTetris</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UntitledTetris\UntitledTetris.cpp">
+      <Filter>Source\UntitledTetris</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UntitledTetris\UntitledTetris.h">
+      <Filter>Source\UntitledTetris</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UntitledTetris\UntitledTetrisCharacter.cpp">
+      <Filter>Source\UntitledTetris</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UntitledTetris\UntitledTetrisCharacter.h">
+      <Filter>Source\UntitledTetris</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UntitledTetris\UntitledTetrisGameMode.cpp">
+      <Filter>Source\UntitledTetris</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UntitledTetris\UntitledTetrisGameMode.h">
+      <Filter>Source\UntitledTetris</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

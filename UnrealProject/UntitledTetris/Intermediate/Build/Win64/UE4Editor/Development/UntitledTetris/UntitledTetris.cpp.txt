@@ -1,0 +1,2 @@
+D:\GameDev\UntitledTetris\untitledtetrisgame\UnrealProject\UntitledTetris\Intermediate\Build\Win64\UE4Editor\Development\UntitledTetris\Definitions.UntitledTetris.h
+d:\gamedev\untitledtetris\untitledtetrisgame\unrealproject\untitledtetris\source\untitledtetris\UntitledTetris.h
