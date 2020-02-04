@@ -1,9 +1,0 @@
-D:\GameDev\UntitledTetris\untitledtetrisgame\UnrealProject\UntitledTetris\Intermediate\Build\Win64\UE4Editor\Development\UntitledTetris\Definitions.UntitledTetris.h
-C:\Games\Epic\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Games\Epic\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\GameDev\UntitledTetris\untitledtetrisgame\UnrealProject\UntitledTetris\Source\UntitledTetris/UntitledTetrisGameMode.h
-C:\Games\Epic\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Games\Epic\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Games\Epic\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Games\Epic\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-d:\gamedev\untitledtetris\untitledtetrisgame\unrealproject\untitledtetris\intermediate\build\win64\ue4editor\inc\untitledtetris\UntitledTetrisGameMode.generated.h
