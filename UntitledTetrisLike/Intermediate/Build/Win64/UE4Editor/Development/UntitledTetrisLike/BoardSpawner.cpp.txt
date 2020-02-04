@@ -1,0 +1,3 @@
+D:\GameDev\UntitledTetris\untitledtetrisgame\UntitledTetrisLike\Intermediate\Build\Win64\UE4Editor\Development\UntitledTetrisLike\Definitions.UntitledTetrisLike.h
+d:\gamedev\untitledtetris\untitledtetrisgame\untitledtetrislike\source\untitledtetrislike\private\BoardSpawner.h
+D:\GameDev\UntitledTetris\untitledtetrisgame\UntitledTetrisLike\Intermediate\Build\Win64\UE4Editor\Inc\UntitledTetrisLike\BoardSpawner.generated.h

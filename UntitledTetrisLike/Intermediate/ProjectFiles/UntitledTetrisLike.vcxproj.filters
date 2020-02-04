@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UntitledTetrisLike.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5FA3F2C5-6B20-45B2-83A3-380221DF8408}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UntitledTetrisLike.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UntitledTetrisLikeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\UntitledTetrisLike">
+      <UniqueIdentifier>{97277416-A8BD-4D08-AD08-114ECF953BE9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UntitledTetrisLike\UntitledTetrisLike.Build.cs">
+      <Filter>Source\UntitledTetrisLike</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UntitledTetrisLike\UntitledTetrisLike.cpp">
+      <Filter>Source\UntitledTetrisLike</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UntitledTetrisLike\UntitledTetrisLike.h">
+      <Filter>Source\UntitledTetrisLike</Filter>
+    </ClInclude>
+    <Filter Include="Source\UntitledTetrisLike\Private">
+      <UniqueIdentifier>{7D5764CD-2C0D-4210-9447-380F36EC04E4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UntitledTetrisLike\Private\BoardSpawner.cpp">
+      <Filter>Source\UntitledTetrisLike\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UntitledTetrisLike\Private\BoardSpawner.h">
+      <Filter>Source\UntitledTetrisLike\Private</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

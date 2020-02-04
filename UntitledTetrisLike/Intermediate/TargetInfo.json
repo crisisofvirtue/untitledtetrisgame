@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UntitledTetrisLike",
+			"Path": "D:\\GameDev\\UntitledTetris\\untitledtetrisgame\\UntitledTetrisLike\\Source\\UntitledTetrisLike.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UntitledTetrisLikeEditor",
+			"Path": "D:\\GameDev\\UntitledTetris\\untitledtetrisgame\\UntitledTetrisLike\\Source\\UntitledTetrisLikeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

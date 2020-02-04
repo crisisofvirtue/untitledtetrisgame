@@ -1,0 +1,5 @@
+D:\GameDev\UntitledTetris\untitledtetrisgame\UntitledTetrisLike\Intermediate\Build\Win64\UE4Editor\Development\UntitledTetrisLike\Definitions.UntitledTetrisLike.h
+C:\Games\Epic\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Games\Epic\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\GameDev\UntitledTetris\untitledtetrisgame\UntitledTetrisLike\Source\UntitledTetrisLike/Private/BoardSpawner.h
+d:\gamedev\untitledtetris\untitledtetrisgame\untitledtetrislike\intermediate\build\win64\ue4editor\inc\untitledtetrislike\BoardSpawner.generated.h

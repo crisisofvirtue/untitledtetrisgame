@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GameDev\\UntitledTetris\\untitledtetrisgame\\UntitledTetrisLike\\Source\\UntitledTetrisLike\\UntitledTetrisLike.Build.cs",
+		"D:\\GameDev\\UntitledTetris\\untitledtetrisgame\\UntitledTetrisLike\\Source\\UntitledTetrisLike.Target.cs",
+		"D:\\GameDev\\UntitledTetris\\untitledtetrisgame\\UntitledTetrisLike\\Source\\UntitledTetrisLikeEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.2"
+}
